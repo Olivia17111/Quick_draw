@@ -37,3 +37,10 @@ canvas {
     margin-left: 10px;
     margin-top: 10px;
 }
+
+#show_sketch {
+    float: right;
+    font-size: large;
+    margin-right: 10px;
+    margin-top: 10px;
+}
